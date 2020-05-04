@@ -22,6 +22,7 @@ R Code used for several analyses in a manuscript detailing white-tailed deer neo
 ##############################################################################################
 
 #Packages
+
 library(geosphere)
 library(distances)
 
